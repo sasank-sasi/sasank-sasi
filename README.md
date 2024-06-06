@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sasank</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
